@@ -1,4 +1,4 @@
-# 🚀 NASA HUNCH Cybersecurity Network Architecture 🚀
+# 🚀 NASA HUNCH Cybersecurity Network Architecture
 
 BY: Lexon Schexnider and Ethan Arena
 Teacher: Jacob Laberteaux and Tracy Henry
