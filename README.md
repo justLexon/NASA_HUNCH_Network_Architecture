@@ -3,7 +3,9 @@
 ***National Finalist at Johnson Space Center***
 
 BY: Lexon Schexnider and Ethan Arena
+
 Teacher: Jacob Laberteaux and Tracy Henry
+
 School: Beau Chene High
 
 Powerpoint: https://github.com/justLexon/NASA_HUNCH_Network_Architecture/blob/main/NASA2.pdf
